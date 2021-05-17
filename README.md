@@ -1,3 +1,22 @@
+# TCR
+
+There are 2 scripts
+
+One runs the tests, commits and pushes if they pass ... does checkout . if not
+the other script constantly pulls
+
+
+## Distributed TCR kata
+
+for the brave and genuinley intersted in team composition and flow
+
+The idea here is that work is continually integrated accross the repository
+But also you need to master baby steps
+
+When this exercise was done at XP Manchester we have 2 mobs on the exercise - initially it is highly recommended to find a fracture point to split the problem up on and establish an interface / contract point both groups can evolve against.
+
+this is not BDUF, it is about a quick agreement that can be managed through code evolution and small basic communication.
+
 # Monopoly
 
 This is meant to be 
